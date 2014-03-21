@@ -1,18 +1,15 @@
-
-## Ionut - Art Games
-
-to make distro, run
-
-sudo npm install uglify-js -g
-sudo npm install stylus -g
-get Flex SDK from [here](http://www.adobe.com/devnet/flex/flex-sdk-download-all.html)
-
-
 # Flowplayer
 
 ![Screenshot](http://stream.flowplayer.org/player.png)
 
 [website](http://flowplayer.org) | [demos](http://flowplayer.org/demos/) | [docs](http://flowplayer.org/docs/)
+
+## Ionut - Art Games
+## to make distro, run
+
+sudo npm install uglify-js -g
+sudo npm install stylus -g
+get Flex SDK from [here](http://www.adobe.com/devnet/flex/flex-sdk-download-all.html)
 
 ## For the impatient
 
