@@ -52,6 +52,7 @@ raw:
 			lib/ext/subtitle.js\
 			lib/ext/analytics.js\
 			lib/ext/mobile.js\
+			lib/ext/auction.js\
 			lib/ext/embed.js | $(SET_VERSION) | sed "s/@EMBED/$(EMBED)/" | sed "s/@CDN/$(CDN)/" | sed "s/@CDN_PATH/$(CDN_PATH)/" >> $(JS)
 
 	@ echo "}(jQuery);" >> $(JS)
